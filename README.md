@@ -26,5 +26,4 @@ Oi, eu sou Vinícius. Sou um estudante, apenas entrando na area de TI, especific
   <!-- <img  src="https://github-readme-stats.vercel.app/api/wakatime?username=vini205">-->            
 </div>
 </div>
-
- 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Alice&size=23&duration=5351&pause=1000&color=F72A1A&width=435&lines=Vini205" alt="Typing SVG" /></a>
